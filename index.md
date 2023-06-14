@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a rising sophomore at Colleyville Heritage High School, and a part of the future chess club, swim team, debate team, and UIL Math team.
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Creative Writing:** writing novels
 
 ## Hobbies
 
-- Guitar
-- Tennis
 - Swimming
+- Playing piano
+- Writing
+- Video games
 
 ## News
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- None for now.
